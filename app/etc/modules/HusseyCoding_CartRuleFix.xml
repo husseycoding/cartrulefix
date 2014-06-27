@@ -2,8 +2,8 @@
 <config>
     <modules>
         <HusseyCoding_CartRuleFix>
-            <active>community</active>
-            <codePool>local</codePool>
+            <active>true</active>
+            <codePool>community</codePool>
         </HusseyCoding_CartRuleFix>
     </modules>
 </config>
