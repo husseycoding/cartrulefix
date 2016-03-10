@@ -270,6 +270,7 @@ class HusseyCoding_CartRuleFix_Model_SalesRuleValidator extends Mage_SalesRule_M
                 );
             }
         }
+        $this->_stopFurtherRules = array();
         return $this;
     }
 }
